@@ -1,0 +1,11 @@
+.dark_node{
+    background-color: black;
+    color: white;
+}
+.dark_enable{
+    border: none;
+    background: none;
+}
+.logo_filter{
+   filter: contrast(29.5); 
+}
